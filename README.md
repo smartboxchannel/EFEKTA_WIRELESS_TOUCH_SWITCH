@@ -7,6 +7,11 @@ More info at http://efektalab.com/wts52
 Contact: hello@efektalab.com
 
 
+
+---
+
+---
+
 Components (see also BOM.CSV):
 
 Luxury Crystal White Glass Touch Switch Panel 80mm*80mm - http://ali.ski/s-sSY
