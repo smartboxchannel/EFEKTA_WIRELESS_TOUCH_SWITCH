@@ -1,0 +1,22 @@
+G04 DipTrace 3.2.0.1*
+G04 Верхняямаркировка.gbr*
+%MOMM*%
+G04 #@! TF.FileFunction,Legend,Top*
+G04 #@! TF.Part,Single*
+%ADD10C,0.25*%
+%FSLAX35Y35*%
+G04*
+G71*
+G90*
+G75*
+G01*
+G04 TopSilk*
+%LPD*%
+X-30008Y65007D2*
+D10*
+X30008D1*
+Y-65000D1*
+X-30008D1*
+Y65007D1*
+X-100006Y-100000D2*
+M02*
