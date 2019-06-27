@@ -1,4 +1,4 @@
-Wireless Touch Switch sensor based on nRF52832. Running on cr2450 battery (550mA).
+Wireless Touch Switch sensor based on nRF52832 with fluorescent effect. Running on cr2450 battery (550mA).
 
 Use the MySensors library
 
