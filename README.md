@@ -2,9 +2,9 @@ Wireless Touch Switch sensor based on nRF52832 with fluorescent effect. Running 
 
 Use the MySensors library
 
-#### Donate me :)
+#### Donate me, ..I will make more and faster open devices :)
 
-PayPal: altigraph@yandex.com
+PayPal: altigraph@ya.ru
 
 Yandex Money: 4100140180242
 
